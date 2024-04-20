@@ -5,3 +5,7 @@
 
 # Information 
 - To compile our project don't forget to install devkitpro and the wiiu-dev packages.
+
+# Contact
+- Discord server: https://discord.gg/hDNkHDu8
+- My nametag: cedkechat
