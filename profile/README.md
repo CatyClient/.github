@@ -5,6 +5,7 @@
 
 # Information 
 - To compile our project don't forget to install devkitpro and the wiiu-dev packages.
+- The modmenu was made by French people called cedkeChat and help by nt-games for the packages included by devkitpro.
 
 # Contact
 - Discord server: https://discord.gg/hDNkHDu8
