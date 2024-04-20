@@ -8,4 +8,4 @@
 
 # Contact
 - Discord server: https://discord.gg/hDNkHDu8
-- My nametag: cedkechat
+- My discord Nametag: cedkechat
