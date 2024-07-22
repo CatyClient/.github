@@ -11,5 +11,5 @@
 - https://catymc.glitch.me
 
 # Contact
-- Discord server: https://discord.gg/hDNkHDu8
+- Discord server: https://discord.gg/mTJWAZF6
 - My discord Nametag: cedkechat
