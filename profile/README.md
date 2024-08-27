@@ -4,12 +4,10 @@
 - The source code of the website will also be included.
 
 # Information 
-- To compile our project don't forget to install devkitpro and the wiiu-dev packages.
-- The modmenu was made by French people called cedkeChat and help by nt-games for the packages included by devkitpro.
+- CatyClient is a cheat modmenu for Minecraft: Wii U Edition games, released in June 2023.
 
-# Old Website
+# Website
 - https://catymc.glitch.me
 
 # Contact
-- Discord server: https://discord.gg/mTJWAZF6
-- My discord Nametag: cedkechat
+- Discord server: [Here](https://discord.gg/zy5FkcA9yf)
